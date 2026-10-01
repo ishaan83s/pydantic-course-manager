@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "studentId": 1,
+            "firstName": "ISHAAN",
+            "lastName": "SHARMA",
+            "age": 21,
+            "email": "ishaan@example.com",
+            "address": {
+                "city": "Mumbai",
+                "state": "Maharashtra",
+                "pincode": "400001"
+            },
+            "enrolledCourses": [],
+            "full_name": "ISHAAN SHARMA"
+        }
+    ],
+    "courses": [
+        {
+            "courseId": 101,
+            "courseName": "Database Management Systems",
+            "credits": 4,
+            "capacity": 2
+        }
+    ]
+}
